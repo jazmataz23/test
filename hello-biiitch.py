@@ -1,2 +1,3 @@
 print("hello bitch")
-print("hello, biiitch")
+print("hello, biiiitch")
+print("u gayyy")
